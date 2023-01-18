@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="./okok.css" rel="stylesheet">
+    <title>Blog Bp</title>
+  </head>
+  <body>
+    <nav class="navbar">
+        <div class="navbar-wrapper container">
+             <div class="navbar-item navbar-logo">
+                Flew<a>.</a>
+             </div>
+             <div class="navbar-item navbar-nav">
+                <ul class="nav">
+                    <li class="nav-link"><a href="">Work</a></li>
+                    <li class="nav-link"><a href="">Services</a></li>
+                    <li class="nav-link"><a href="">Pricing</a></li>
+                    <li class="nav-link"><a href="">About</a></li>
+                    <li class="nav-link"><a href="">Contact</a></li>
+                    <li class="nav-link"><a href="">Get Started</a></li>
+                </ul>
+             </div>
+        </div>
+    </nav>
+
+    <h1>Take Your Business To The <Br>Next Level</h1>
+    <button class="btn">Get Started</button>
+
+  </body>
+
+  </html>
