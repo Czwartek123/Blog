@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="./okok.css" rel="stylesheet">
+    <link href="./okok123.css" rel="stylesheet">
     <title>Blog Bp</title>
   </head>
   <body>
@@ -14,20 +14,29 @@
              </div>
              <div class="navbar-item navbar-nav">
                 <ul class="nav">
-                    <li class="nav-link"><a href="">Work</a></li>
-                    <li class="nav-link"><a href="">Services</a></li>
-                    <li class="nav-link"><a href="">Pricing</a></li>
-                    <li class="nav-link"><a href="">About</a></li>
-                    <li class="nav-link"><a href="">Contact</a></li>
-                    <li class="nav-link"><a href="">Get Started</a></li>
+                    <li class="nav-link"><a href="https://www.google.com/search?client=firefox-b-d&q=work">Work</a></li>
+                    <li class="nav-link"><a href="https://www.google.com/search?q=services&hl=pl&source=hp&ei=CEbJY4f0HpCEwPAPm4apkAw&iflsig=AK50M_UAAAAAY8lUGNjCfCb2dq7dkr-Zo2zyHVBf-6Aa&ved=0ahUKEwiHmP2G39P8AhUQAhAIHRtDCsIQ4dUDCAc&uact=5&oq=services&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgoILhDqAhC0AhBDOhAILhDHARDRAxDqAhC0AhBDOgoIABDqAhC0AhBDOhMILhDHARDRAxDUAhDqAhC0AhBDOhQIABDqAhC0AhCKAxC3AxDUAxDlAjoUCC4Q6gIQtAIQigMQtwMQ1AMQ5QI6CAgAEIAEELEDOggIABCxAxCDAToLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBENEDOgsILhCABBCxAxCDAToLCC4QgAQQxwEQ0QM6DgguEIAEELEDEMcBENEDOgkIABBDEEYQ_wE6CggAELEDEIMBEEM6BAguEEM6BAgAEEM6CAguEIAEELEDOg4ILhCvARDHARCxAxCABDoKCC4QsQMQ1AIQQzoPCAAQsQMQgwEQQxBGEP8BOgsILhCABBCxAxDUAjoLCC4QgAQQxwEQrwFQEFjBCGCaCWgBcAB4AYABlgKIAdcGkgEFNi4xLjGYAQCgAQGwAQo&sclient=gws-wiz">Services</a></li>
+                    <li class="nav-link"><a href="https://www.google.com/search?q=pricing&hl=pl&ei=CkbJY8vNLoPqrgTUspv4Aw&ved=0ahUKEwjL-oaI39P8AhUDtYsKHVTZBj8Q4dUDCA4&uact=5&oq=pricing&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzILCAAQgAQQsQMQgwEyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6CggAEEcQ1gQQsAM6BwgAELADEEM6BAgAEEM6BwguENQCEEM6CQgAEEMQRhD_AToICAAQgAQQsQM6CwguEIAEEMcBEK8BOgsILhCABBCxAxCDAToOCC4QgAQQsQMQxwEQrwE6CAguEIAEELEDOgoIABCxAxCDARBDOgcIABCxAxBDOhEILhCABBCxAxCDARDHARDRAzoHCC4QgAQQCkoECEEYAEoECEYYAFCDiAFY5owBYOCNAWgFcAF4AIABZYgBqgSSAQM2LjGYAQCgAQHIAQrAAQE&sclient=gws-wiz-serp">Pricing</a></li>
+                    <li class="nav-link"><a href="https://www.google.com/search?q=about&hl=pl&ei=HkbJY6qdJfKPrgTV0b6wAg&ved=0ahUKEwiqpMKR39P8AhXyh4sKHdWoDyYQ4dUDCA4&uact=5&oq=about&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzINCAAQgAQQsQMQgwEQDTINCAAQgAQQsQMQgwEQDTINCAAQgAQQsQMQgwEQDTIKCC4QgAQQsQMQDTIHCAAQgAQQDTINCAAQgAQQsQMQgwEQDTIKCC4QgAQQsQMQDTIHCAAQgAQQDTIHCAAQgAQQDTINCAAQgAQQsQMQgwEQDToKCAAQRxDWBBCwAzoHCAAQsAMQQzoLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBENEDOggILhCxAxCABDoICC4QsQMQgwE6BQgAEIAEOg4ILhCABBCxAxDHARDRAzoICAAQgAQQsQM6CAgAELEDEIMBOgsILhCABBDHARCvAToECAAQAzoLCC4Q1AIQsQMQgAQ6CAguEIAEELEDOgQIABBDSgQIQRgASgQIRhgAULMBWJwGYPAGaAJwAXgAgAFViAH_ApIBATWYAQCgAQHIAQrAAQE&sclient=gws-wiz-serp">About</a></li>
+                    <li class="nav-link"><a href="https://www.google.com/search?q=contact&hl=pl&ei=LEbJY76LEJGKrwT095PQDw&ved=0ahUKEwi-0YOY39P8AhURxYsKHfT7BPoQ4dUDCA4&uact=5&oq=contact&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCC4QsQMQQzIICAAQgAQQsQMyCwguEIAEEMcBEK8BMgsILhCABBDHARCvATIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoKCAAQRxDWBBCwAzoHCAAQsAMQQzoSCC4QxwEQ0QMQyAMQsAMQQxgBOg8ILhDUAhDIAxCwAxBDGAE6DAguEMgDELADEEMYAToOCC4QgAQQsQMQxwEQ0QM6CwguEIAEEMcBENEDOgQIABBDOgsIABCABBCxAxCDAToJCAAQQxBGEP8BOgYIABAKEEM6BAguEEM6CAguEIAEELEDOgsILhCABBCxAxCDAToLCC4QgwEQsQMQgAQ6EQguEIAEELEDEIMBEMcBENEDSgQIQRgASgQIRhgBUK0CWO4LYNQMaAJwAXgAgAFfiAH5BJIBATeYAQCgAQHIARTAAQHaAQYIARABGAg&sclient=gws-wiz-serp">Contact</a></li>
+                    <li class="nav-link"><a class="button" href="https://www.trex-game.skipser.com/">Get Started</a></li>
                 </ul>
              </div>
         </div>
     </nav>
 
     <h1>Take Your Business To The <Br>Next Level</h1>
-    <button class="btn">Get Started</button>
+    <a href="https://www.trex-game.skipser.com/">
+        <button class="btn">Get Started</button>
+    </a>
+    <h2>Our Awesome Features<p>Far far away, behind the word mountains, far from the <br>countries Vokalia and Consonantia, there live the blind texts.</p></h2> 
+   
+    <h3><img src="icon1.png" class="zdj1">Dashboard</h3> <h4 class="">Far far away, behind the word <br>mountains, far from the <br>countries Vokalia and Consonantia, there live the <br>blind texts. Separated they <br>live in Bookmarksgrove.</h4>
+    
+    <h3><img src="icon4.png" class="zdj2" >SEO Monitoring</h3>  <h4>Far far away, behind the word <br>mountains, far from the <br>countries Vokalia and Consonantia, there live the <br>blind texts. Separated they <br>live in Bookmarksgrove.</h4>
+    
 
+  
   </body>
 
   </html>
